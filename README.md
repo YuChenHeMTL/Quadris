@@ -2,7 +2,7 @@
 
 Quadris is a new and improved version of Tetris written in C++ with a graphics library X11
 
-![Game demo](src/demo_poster.png)
+![Game demo](src/img/demo_poster.png)
 
 # How to Install
 
