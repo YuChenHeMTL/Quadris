@@ -1,0 +1,6 @@
+*.o
+*.d
+/src/quadris
+.vscode/
+*.zip
+.DS_Store

@@ -1,0 +1,11 @@
+drop
+5right drop
+10right 10left 10down drop
+T S Z I L drop
+restart
+O drop
+I 2ri drop
+L 6ri drop
+O 13ri drop
+restart
+10drop
